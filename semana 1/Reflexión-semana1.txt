@@ -1,0 +1,7 @@
+El uso responsable de la información en internet está muy relacionado con la participación ciudadana y la organización del trabajo técnico,
+ya que en todos los casos se requiere actuar con responsabilidad, ética y orden. Cuando una persona verifica la información antes de compartirla, 
+contribuye a una sociedad mejor informada y evita la desinformación. De igual forma, la participación ciudadana se fortalece cuando las personas
+usan la tecnología de manera consciente para opinar, informarse y tomar decisiones. Por otro lado, herramientas como Git permiten organizar el trabajo
+técnico de manera colaborativa, donde cada aporte queda registrado y puede ser revisado. Esto se parece a cómo en la ciudadanía se deben construir ideas
+en conjunto, con respeto y claridad. En conclusión, tanto en internet como en el trabajo técnico y la vida social, la responsabilidad y la organización
+son claves para lograr resultados confiables y efectivos.
